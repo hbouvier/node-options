@@ -11,7 +11,7 @@ This module is licensed under the Apache License v2.0
 
 # Installation
 
-npm install options
+npm install node-options
 
 # Include this as a module in your own project
 

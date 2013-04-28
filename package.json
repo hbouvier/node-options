@@ -1,6 +1,6 @@
 {
     "author"      : "Henri Bouvier",
-    "name"        : "options",
+    "name"        : "node-options",
     "description" : "Parse the command line arguments",
     "version"     : "0.0.1",
     "repository"  : {
