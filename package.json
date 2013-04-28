@@ -1,0 +1,19 @@
+{
+    "author"      : "Henri Bouvier",
+    "name"        : "options",
+    "description" : "Parse the command line arguments",
+    "version"     : "0.0.1",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/hbouvier/node-options.git"
+    },
+    "keywords": [
+        "argument",
+        "option",
+        "switch"
+    ],
+    "main" : "./lib/options.js",
+    "engines"              : {
+        "node" : ">= 0.6.0"
+    }
+}
