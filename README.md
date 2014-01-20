@@ -1,4 +1,4 @@
-Command line argument parser [![Build Status](https://travis-ci.org/hbouvier/node-options.png)](https://travis-ci.org/hbouvier/node-options)
+Command line argument parser [![Build Status](https://travis-ci.org/hbouvier/node-options.png)](https://travis-ci.org/hbouvier/node-options) [![Coverage Status](https://coveralls.io/repos/hbouvier/node-options/badge.png)](https://coveralls.io/r/hbouvier/node-options)
 ========
 # 
 
