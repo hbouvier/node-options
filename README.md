@@ -1,4 +1,6 @@
-# Command line argument parser
+Command line argument parser [![Build Status](https://travis-ci.org/hbouvier/node-options.png)](https://travis-ci.org/hbouvier/node-options)
+========
+# 
 
 This module is a command line argument parser, based on regular expression.
 It is able to validate the arguments based on the "properties" of an object.
