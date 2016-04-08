@@ -33,7 +33,7 @@ npm install node-options
     // would serve the "static" html pages.
     //
     var opts =  {
-                  "port"    : process.env.PORT | 3000,
+                  "port"    : process.env.PORT || 3000,
                   "verbose" : false
                 };
 
