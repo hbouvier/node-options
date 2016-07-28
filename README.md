@@ -51,15 +51,14 @@ npm install node-options
 
     console.log('port=', opts.port);
     console.log('verbose=', opts.verbose);
-    if (result.args)
+    if (result.args) {
         if (result.args.length === 1) {
             console.log('public=', result.args)
         } else {
-            console.log('Only one non-option argument is supported by the app: '" + result.result.join('", "') + '"');
+            console.log('Only one non-option argument is supported by the app: "' + result.args.join('", "') + '"');
             process.exit(-2);
         }
     }
-
 # Other usage
 
 If you want to pass some arguments to another process "as-is", the parser
