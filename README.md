@@ -21,7 +21,7 @@ npm install node-options
 
 # Usage
 
-    var options = require('options');
+    var options = require('node-options');
 
     // A simple use case for an http server could be that you want to be able
     // to specify the port number on which your server will listen by having
